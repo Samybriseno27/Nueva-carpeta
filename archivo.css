@@ -1,0 +1,16 @@
+div{
+    background-color: red;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+}
+
+div{
+    border-top-width: 5px;
+    border-top-style:solid;
+    border-top-color:blue;
+
+    border-bottom-width: 2px;
+    border-bottom-style:dashed;
+    border-bottom-color:yellow;
+}
